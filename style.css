@@ -729,7 +729,6 @@ video {
     #page2-bottom {
         height: 100vh;
         width: 100%;
-        /* background-color: rgb(97, 171, 235); */
         padding: 10vw 4vw;
         align-items: flex-start;
         flex-direction: column;
@@ -743,8 +742,6 @@ video {
 
     #bottom-part2 {
         width: 70%;
-        /* background-color: aqua; */
-        /* margin-top: 10vw; */
     }
 
     #bottom-part2 img {
@@ -910,8 +907,6 @@ video {
         position: absolute;
         left: 0px;
         bottom: 68%;
-        /* filter: blur(20px); */
-
     }
 
     @keyframes footer-anime {
