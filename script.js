@@ -50,7 +50,6 @@ function swiperAnimation() {
 }
 
 
-
 // menu-bar
 function menuAnimation() {
 
@@ -74,6 +73,17 @@ function menuAnimation() {
     });
 }
 
+
+function loaderAnimation() {
+
+    var loader = document.querySelector("#loader");
+    setTimeout(function () {
+        loader.style.top = "-100%";
+    }, 4200);
+}
+
+
+loaderAnimation();
 swiperAnimation();
 page4Animation();
 menuAnimation();
