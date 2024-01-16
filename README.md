@@ -5,7 +5,6 @@ Sundown Studio is a visually captivating and interactive web development project
 - Introduction
 - Features
 - Technologies Used
-- Project Structure
 
 ## Introduction
 Sundown Studio is a website that aims to showcase the studio's creativity and expertise in delivering unique end-to-end experiences and environments. The project leverages HTML, CSS, and JavaScript, along with external libraries such as Swiper for carousels and Locomotive Scroll for smooth scrolling. Additionally, animations and moving text elements have been incorporated to enhance user engagement.
